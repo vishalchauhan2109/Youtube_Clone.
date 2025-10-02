@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '../Common/Button'
 
-const list = ["All", "Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "KishorKumar","Reactjs","Redux", "Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "Kishor Kumar","Reactjs","Redux","Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "Kishor Kumar","Reactjs","Redux", "Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "Kishor Kumar","Reactjs","Redux"]
+const list = ["All", "Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "KishorKumar","Reactjs","Redux", "Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Jethalal", "Tseries", "Kishor Kumar","Reactjs","Redux","Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "Kishor Kumar","Reactjs","Redux", "Music", "Mixes", "WebDevlopment", "DataStructure", "Live", "music", "News", "Tmkoc", "Jethalal", "Tseries", "Kishor Kumar","Reactjs","Redux"]
 
 const ButtonSection = () => {
     return (
