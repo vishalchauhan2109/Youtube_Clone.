@@ -7,7 +7,7 @@ import { MdHistory, MdKeyboardArrowRight, MdOutlineSubscriptions, MdOutlineWatch
 import { RiDownloadLine, RiFeedbackLine } from 'react-icons/ri'
 import { SiYoutubeshorts } from 'react-icons/si'
 import { SlMenu } from 'react-icons/sl'
-import { toggleMenu } from '../utils/appSlice'
+import { toggleMenu } from '../utils/AppSlice'
 import { useDispatch, useSelector } from 'react-redux'
 import Logo from '../utils/Logo'
 import { Link } from 'react-router-dom'

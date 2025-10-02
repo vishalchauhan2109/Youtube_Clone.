@@ -6,7 +6,7 @@ import { PiMagnifyingGlassThin } from 'react-icons/pi'
 import { SlMenu } from 'react-icons/sl'
 import { VscAdd } from 'react-icons/vsc'
 import { useDispatch } from 'react-redux'
-import {toggleMenu} from '../utils/appSlice'
+import { toggleMenu } from '../utils/AppSlice'
 import Logo from '../utils/Logo'
 
 
