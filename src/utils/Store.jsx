@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import appReducer from '../utils/appSlice'
+import appReducer from "./AppSlice"
 
 
 
