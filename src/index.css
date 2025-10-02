@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+*{
+    font-family: Roboto Arial, Helvetica, sans-serif;   
+}
+
+@layer utilities {
+  .no-scrollbar {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+}
+
+.whitespace-nowrap {
+    white-space: wrap;
+}
